@@ -1,6 +1,7 @@
 ##
 ## Makefile for CS107 Assignment 1: Random Sentence Generator
 ## commit for the next stage
+## commit for the third stage
 ##
 
 CPPFLAGS = -g -Wall
