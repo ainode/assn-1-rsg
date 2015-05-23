@@ -36,8 +36,7 @@ class Definition {
    * --------------------------------
    * Constructs an instance of the Definition instance
    * based on the contents of the specified ifstream.  The
-   * contents of the file must adhere to the following
-   * textual representation:
+   * contents of the file must adhere to the follow changedddd  * textual representation:
    * 
    *			{
    *			<non-terminal>
