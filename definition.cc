@@ -37,7 +37,7 @@ Definition::Definition(ifstream& infile)
 }
 
 /**
- * Method: getRandomProduction
+ * Method: getRandomProuction
  * ---------------------------
  * Returns a const reference to one of the
  * embedded Productions.  Relies on the
